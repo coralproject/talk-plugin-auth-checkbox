@@ -1,24 +1,20 @@
 {
-  "name": "@coralproject/talk-plugin-auth-checkbox",
+  "name": "talk-plugin-auth-checkbox",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/coralproject/talk-plugin-auth-checkbox.git"
+    "url": "git+https://github.com/coralproject/talk-plugin-auth-checkbox.git"
   },
-  "author": "Coral Project",
-  "license": "MIT",
-  "private": false,
-  "dependencies": {
-    "npm": "^5.8.0"
-  },
-  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/coralproject/talk-plugin-auth-checkbox/issues"
   },
-  "homepage": "https://github.com/coralproject/talk-plugin-auth-checkbox#readme",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "homepage": "https://github.com/coralproject/talk-plugin-auth-checkbox#readme"
 }
